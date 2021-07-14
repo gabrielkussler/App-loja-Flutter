@@ -7,11 +7,11 @@ class Product {
   bool isFavorite;
 
   Product({
-    required this.id,
-    required this.title,
-    required this.description,
-    required this.Price,
-    required this.imageUrl,
+    this.id,
+    this.title,
+    this.description,
+    this.Price,
+    this.imageUrl,
     this.isFavorite = false,
   });
 }
