@@ -149,10 +149,10 @@
       "name": "shop",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.3"
     }
   ],
-  "generated": "2021-07-14T11:06:43.330431Z",
+  "generated": "2021-07-14T13:07:08.745256Z",
   "generator": "pub",
   "generatorVersion": "2.14.0-136.0.dev"
 }

@@ -6,7 +6,7 @@ class Products with ChangeNotifier {
 
   List<Product> _items = DUMMY_PRODUCTS;
 
-  List<Product> get items => [..._items];
+  List<Product> get items => [ ..._items ];
 
   void addProduct(Product product) {
    _items.add(product);
